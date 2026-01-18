@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+# Environnements
+env/
+venv/
+.venv/
+
+# Logs & temporaires
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# DATA
+data/
+dataset/
+data.rar
+archive_fsl_10_letters/
